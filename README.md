@@ -19,6 +19,15 @@ The main important columns are sales, profit, category, and country. Along with 
 5. Visualize the correlations between the data & highlight its features
 
 6. Use variety of plots and charts that show the different aspects of the data and hence the audence to the reality of the store strength and weakness
+## Used Plots and Charts
+* Histogram Plot
+* Histogram Chart
+* Pie Chart
+* Bar Chart
+* Box Plot
+* Scatter Plot
+* Bar Plot (Horizontal & Vertical)
+* Heatmap
 
 ## Libraries and technology
 * Pandas
