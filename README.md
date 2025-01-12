@@ -19,3 +19,15 @@ The main important columns are sales, profit, category, and country. Along with 
 5. Visualize the correlations between the data & highlight its features
 
 6. Use variety of plots and charts that show the different aspects of the data and hence the audence to the reality of the store strength and weakness
+
+## Libraries and technology
+* Pandas
+* Matplotlib
+* Scit-learn
+* Seaborn
+
+### Helpers & support
+* Thanks to Mr Vasi and Mr Neil to their valuable support and supervision
+* The course contet on the Code Institute SME platform
+* ChatGPT was used to solve some tasks that took more 30 minutes of trial and error
+
